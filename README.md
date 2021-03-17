@@ -1,22 +1,8 @@
-<!--
-**zhoubaohang/zhoubaohang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hello, I'm Baohang Zhou 👋
 [![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhoubaohang@dbis.nankai.edu.cn)](mailto:zhoubaohang@dbis.nankai.edu.cn)
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/399465138/)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zhoubaohang)](https://github.com/zhoubaohang)
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhoubaohang) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhoubaohang)
 
 ---
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -35,8 +21,6 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhoubaohang&show_icons=true&hide_border=true">
-
 - 💻 &#160; ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat&logo=java&logoColor=ffffff)
@@ -54,6 +38,8 @@ Here are some ideas to get you started:
 ![Vim](http://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=ffffff)
 ![LaTex](https://img.shields.io/badge/-LaTex-008080?style=flat&logo=latex)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhoubaohang&show_icons=true&hide_border=true">
 
 ### About Me
 - [Github Blog](https://zhoubaohang.github.io/)
