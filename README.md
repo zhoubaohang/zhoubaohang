@@ -15,6 +15,7 @@
 - 🌱 Currently living in Cangzhou, Hebei Province, China.
 
 ### Recent Publications
+- **Baohang Zhou**, Xiangrui Cai, Ying Zhang, Xiaojie Yuan. *An End-to-End Progressive Multi-Task Learning Framework for Medical Named Entity Recognition and Normalization*. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)*. pages 6214-6224. [[Paper](https://aclanthology.org/2021.acl-long.485/)]
 - **Baohang Zhou**, Xiangrui Cai, Ying Zhang, Wenya Guo, Xiaojie Yuan. *MTAAL: Multi-Task Adversarial Active Learning for Medical Named Entity Recognition and Normalization*. In *Proceddings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)*. pages 14586-14593. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17714)]
 - Ying Zhang, **Baohang Zhou**, Xiangrui Cai, Wenya Guo, Xiaoke Ding, Xiaojie Yuan. *Missing Value Imputation in Multivariate Time Series with End-to-End Generative Adversarial Networks*. Inf. Sci., Vol. 551. 67-82. [[Paper](https://doi.org/10.1016/j.ins.2020.11.035)]
 - Ying Zhang, **Baohang Zhou**, Xiaoke Ding, Jiawei Ouyang, Xiangrui Cai, Jinyang Gao, Xiaojie Yuan. *Adversarially learned one-class novelty detection with confidence estimation*. Inf. Sci., Vol. 552. 48-64. [[Paper](https://doi.org/10.1016/j.ins.2020.11.052)]
